@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-From the GitHub guide
+Just going through the hello-world guide on GitHub. Pretty cool!
